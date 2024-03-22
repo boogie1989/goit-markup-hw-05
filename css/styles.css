@@ -9,6 +9,7 @@
 	--LIGHT-SLATE: #8e8f99;
 	--NAVY-BLUE: #2e2f42;
 	--NAVY-BLUE-400: rgba(46, 47, 66, 0.4);
+	--NAVY-BLUE-700: rgba(46, 47, 66, 0.7);
 	--OCEAN: #404bbf;
 	--SLATE: #434455;
 	--WHITE: #ffffff;
@@ -351,7 +352,7 @@ button {
 	max-width: 1440px;
 	margin: 0 auto;
 	padding: 188px 0;
-	background: linear-gradient(var(--NAVY-BLUE), var(--NAVY-BLUE)),
+	background: linear-gradient(var(--NAVY-BLUE-700), var(--NAVY-BLUE-700)),
 		url("../images/hero-bg.jpg") center/cover no-repeat var(--NAVY-BLUE);
 }
 

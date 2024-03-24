@@ -319,7 +319,7 @@ button {
 }
 
 .footer-socials-list {
-	gap: 16px
+	gap: 16px;
 }
 
 .footer-socials-icon {
@@ -426,17 +426,11 @@ button {
 
 .feature-item-title {
 	margin-bottom: 8px;
-	font-weight: 500;
-	font-size: 20px;
-	line-height: 1.2;
 	letter-spacing: 0.02em;
-	color: var(--NAVY-BLUE);
 }
 
 .feature-item-desc {
-	line-height: 1.5;
 	letter-spacing: 0.02em;
-	color: var(--SLATE);
 }
 
 .tasks {
@@ -481,17 +475,13 @@ button {
 }
 
 .team-member-title {
-	font-weight: 500;
-	font-size: 20px;
-	line-height: 1.2;
 	letter-spacing: 0.02em;
 	text-align: center;
-	color: var(--NAVY-BLUE);
 }
 
 .team-member-position {
 	margin-bottom: 8px;
-	line-height: 1.5;
+
 	letter-spacing: 0.02em;
 	text-align: center;
 }
@@ -614,16 +604,11 @@ button {
 
 .job-title {
 	margin-bottom: 8px;
-	font-size: 20px;
-	line-height: 1.2;
 	letter-spacing: 0.02em;
-	color: var(--NAVY-BLUE);
 }
 
 .job-desc {
-	line-height: 1.5;
 	letter-spacing: 0.02em;
-	color: var(--SLATE);
 }
 
 /* MODAL */
